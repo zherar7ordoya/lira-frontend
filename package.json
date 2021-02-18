@@ -1,0 +1,12 @@
+{
+  "name": "lira-frontend",
+  "version": "1.0.0",
+  "description": "Aprende a crear una API con GraphQL, Node y TypeScript. Almacena tus datos en una base de datos de MongoDB y despliégala en Vercel hacia producción. Crea un frontend con React y Apollo Client para consumirla.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gerardo Tordoya <zherar7ordoya@pm.me>",
+  "license": "MIT"
+}
